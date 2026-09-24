@@ -17,7 +17,7 @@ function Header() {
 
             <div className="brand">
                 <img
-                    src="/images/nexora-logo.png"
+                    src={`${process.env.PUBLIC_URL}/images/nexora-logo.png`}
                     alt="Nexora"
                     className="nexora-logo"
                 />
