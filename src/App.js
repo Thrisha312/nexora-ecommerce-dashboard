@@ -215,11 +215,9 @@ function AppContent() {
 function App() {
 
     return (
-        <BrowserRouter>
-
-            <AppContent />
-
-        </BrowserRouter>
+        <BrowserRouter basename="/nexora-ecommerce-dashboard">
+    <AppContent />
+</BrowserRouter>
     );
 }
 
