@@ -1,6 +1,7 @@
 {
   "name": "ecommerce-dashboard",
   "version": "0.1.0",
+  "homepage": "https://thrisha312.github.io/nexora-ecommerce-dashboard/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
